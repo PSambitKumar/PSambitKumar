@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **admin@sambitkumarpradhan.tech**
+- 💬 Ask me about **Java**
 
 - 👨‍💻 My Portfolio [sambitkumarpradhan.tech](sambitkumarpradhan.tech)
 
 - ⚡ Fun fact **Writes Code For Fun**
 
-- 💬 Ask me about **Java**
+- 📫 How to reach me **admin@sambitkumarpradhan.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
