@@ -1,7 +1,7 @@
 ![MasterHead](https://www.quotemaster.org/images/f3/f3eae07c539a14d4ea213b927e4b7e53.jpg)
 <h1 align="center">Hi 👋, I'm Sambit Kumar Pradhan</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
-<img align="right" alt="coding" width="600" height="400" src="https://miro.medium.com/max/544/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="coding" width="500" src="https://miro.medium.com/max/544/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psambitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="psambitkumar" /> </p>
