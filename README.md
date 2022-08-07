@@ -46,6 +46,21 @@
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="30" style="max-width: 100%;"></a>
+
+</p> 
+
+<h3 align="left">Backend Development:</h3>
+<p align="left"> 
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/j2ee.png"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/j2ee.png" height="30" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/jsp.png"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/jsp.png" height="30" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/servlet.png"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/servlet.png" height="30" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-1.png"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-1.png" height="30" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-boot.png"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-boot.png" height="30" style="max-width: 100%;"></a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/hibernate.jpeg"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/hibernate.jpeg" height="30" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/tomcat.jpg"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/tomcat.jpg" height="30" style="max-width: 100%;"></a>
 </p> 
 
 
@@ -54,11 +69,12 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30" style="max-width: 100%;"></a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 
 </p>
+
 
 <h3 align="left">Mobile App Development:</h3>
 <p align="left"> 
@@ -66,18 +82,11 @@
     
 </p> 
 
-<h3 align="left">Backend Development:</h3>
-<p align="left"> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    
-</p> 
-
 <h3 align="left">Devops:</h3>
 <p align="left"> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
-    
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/maven.png"><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/maven.png" height="30" style="max-width: 100%;"></a>
 </p> 
 
 <h3 align="left">Others:</h3>
@@ -90,6 +99,13 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     
 </p> 
+
+<div dir="auto">
+  <h4 dir="auto"><a id="user-content--github-profile-trophy" class="anchor" href="#-github-profile-trophy" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://camo.githubusercontent.com/aadbe280268d5470a59718131c85182a4403dfd1f1c2de81da1be6c976acf116/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d736f756d796164697030303726636f6c756d6e3d3726686964653d50756c6c52657175657374" data-canonical-src="https://github-profile-trophy.vercel.app/?username=soumyadip007&amp;column=7&amp;hide=PullRequest" style="max-width: 100%;">
+  </a>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psambitkumar&show_icons=true&locale=en&layout=compact" alt="psambitkumar" /></p>
 
