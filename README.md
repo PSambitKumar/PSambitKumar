@@ -1,6 +1,6 @@
 ![MasterHead](https://www.quotemaster.org/images/f3/f3eae07c539a14d4ea213b927e4b7e53.jpg)
 <h1 align="center">Hi 👋, I'm Sambit Kumar Pradhan</h1>
-<h3 align="center">A passionate Java Developer from India</h3>
+<h3 align="center">A passionate Fullstack Java Developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://miro.medium.com/max/544/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/sambitprdhn" target="blank"><img src="https://img.shields.io/twitter/follow/sambitprdhn?logo=twitter&style=for-the-badge" alt="sambitprdhn" /></a> </p>
 
+- 👯 I’m a **Software Engineer**
+
 - 🔭 I’m currently working on **CDMS ODISHA**
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m a **Software Engineer**
-
-- 👨‍💻 My Portfolio [sambitkumarpradhan.tech](sambitkumarpradhan.tech)
-
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **admin@sambitkumarpradhan.tech**
+
+- 👨‍💻 My Portfolio [sambitkumarpradhan.tech](sambitkumarpradhan.tech)
 
 - ⚡ Fun fact **Writes Code For Fun**
 
