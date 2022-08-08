@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **admin@sambitkumarpradhan.tech**
 
-- 👨‍💻 My Portfolio [sambitkumarpradhan.tech](sambitkumarpradhan.tech)
+- 👨‍💻 My Portfolio [https://www.sambitkumarpradhan.tech](sambitkumarpradhan.tech)
 
 - ⚡ Fun fact **Writes Code For Fun**
 
