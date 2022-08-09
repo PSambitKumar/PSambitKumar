@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me <a style="color:"green;"" href="mailto:admin@sambitkumarpradhan.tech?subject=Mail from GitHub">Mail Me</a>
+- 📫 How to reach me <b><a href="mailto:admin@sambitkumarpradhan.tech?subject=Mail from GitHub">Mail Me</a></b>
 
-- 👨‍💻 My Portfolio <a href="http://sambitkumarpradhan.tech/">Check Here</a>
+- 👨‍💻 My Portfolio <b><a href="http://sambitkumarpradhan.tech/">Check Here</a></b>
 
 - ⚡ Fun fact **Writes Code For Fun**
 
