@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **admin@sambitkumarpradhan.tech**
+- 📫 How to reach me <a href="admin@sambitkumarpradhan.tech">Mail Me</a>
 
-- 👨‍💻 My Portfolio [https://www.sambitkumarpradhan.tech](sambitkumarpradhan.tech)
+- 👨‍💻 My Portfolio <a href="http://sambitkumarpradhan.tech/">Check Here</a>
 
 - ⚡ Fun fact **Writes Code For Fun**
 
