@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sambitprdhn" target="blank"><img src="https://img.shields.io/twitter/follow/sambitprdhn?logo=twitter&style=for-the-badge" alt="sambitprdhn" /></a> </p>
 
-- 👯 I’m a **Software Engineer**
+- 👯 I’m a **Software Engineer at <a href="https://www.csm.tech/">CSM Technologies</a>**
 
 - 🔭 I’m currently working on **CDMS ODISHA**
 
