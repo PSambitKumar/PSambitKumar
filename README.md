@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me <a href="mailto:admin@sambitkumarpradhan.tech?subject=Mail from our Website">Send Email</a>
+- 📫 How to reach me <a href="mailto:admin@sambitkumarpradhan.tech?subject=Mail from our Website">Mail Me</a>
 
 - 👨‍💻 My Portfolio <a href="http://sambitkumarpradhan.tech/">Check Here</a>
 
