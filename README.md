@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/PSambitKumar/LoginReg/blob/master/src/main/resources/static/images/sambit.jpg)
 <h1 class="container typed-ou" align="center">Hi 👋, I'm <a href="http://sambitkumarpradhan.tech">Sambit Kumar Pradhan</a></h1>
 <h3 align="center">A passionate Fullstack Java Developer from India</h3>
-<img align="right" alt="coding" width="auto" max-width="65%" src="https://miro.medium.com/max/544/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="coding" width="65%" max-width="65%" src="https://miro.medium.com/max/544/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psambitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="psambitkumar" /> </p>
 
