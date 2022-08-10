@@ -1,4 +1,4 @@
-![MasterHead](https://www.wetech-alliance.com/wp-content/uploads/2019/08/code-design-to-win-plain-banner-1.png)
+![MasterHead](https://github.com/PSambitKumar/LoginReg/blob/master/src/main/resources/static/images/sambit.jpg)
 <h1 class="container typed-ou" align="center">Hi 👋, I'm <a href="http://sambitkumarpradhan.tech">Sambit Kumar Pradhan</a></h1>
 <h3 align="center">A passionate Fullstack Java Developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://miro.medium.com/max/544/1*IRGHmiGsa16stedQvIaZfw.gif">
