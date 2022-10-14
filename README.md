@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sambitprdhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sambitprdhn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sambit-kumar-pradhan-7455155a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambit-kumar-pradhan-7455155a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/psambitkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambit-kumar-pradhan-7455155a" height="30" width="40" /></a>
 <a href="https://instagram.com/psambitkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="psambitkumar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/PSambitKumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sambitkumarprad1" height="30" width="40" /></a>
 </p>
