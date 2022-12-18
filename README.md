@@ -9,7 +9,7 @@
 
 - 👯 I’m a **Software Engineer at <a href="https://www.csm.tech/">CSM Technologies</a>**
 
-- 🔭 I’m currently working on **CDMS ODISHA**
+- 🔭 I’m currently working on **CDMS ODISHA And Biju Swasthya Kalyana Yojana**
 
 - 🌱 I’m currently learning **React Native**
 
