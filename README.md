@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sambitprdhn" target="blank"><img src="https://img.shields.io/twitter/follow/sambitprdhn?logo=twitter&style=for-the-badge" alt="sambitprdhn" /></a> </p>
 
-- 👯 I’m a **Software Engineer at <a href="https://www.csm.tech/">CSM Technologies</a>**
+- 👯 I’m a **Software Engineer at <a href="https://www.infosys.com/">Infosys Pvt. Ltd.</a>**
 
-- 🔭 I’m currently working on **CDMS ODISHA And Biju Swasthya Kalyana Yojana**
+- 🔭 I’m currently working on **Dubai Marine Logistics(CMA CGM)**
 
 - 🌱 I’m currently learning **React Native**
 
